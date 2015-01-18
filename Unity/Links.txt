@@ -1,1 +1,3 @@
 http://devmag.org.za/2012/07/12/50-tips-for-working-with-unity-best-practices/  (50 best Tips unity practics AND other...)
+
+http://wiki.unity3d.com/index.php?title=Tip_of_the_day#May_2014			(Unity comunity tips)
